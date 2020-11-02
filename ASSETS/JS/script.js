@@ -1,0 +1,1 @@
+var valeur = prompt("Bonjour");
